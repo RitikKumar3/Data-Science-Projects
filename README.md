@@ -14,10 +14,10 @@ Welcome to the Data Science and Machine Learning Projects repository! This colle
 This repository contains hands-on projects that cover a wide range of data science and machine learning concepts. Whether you're a beginner looking to start your journey or an intermediate practitioner seeking practical exercises, you'll find projects that cater to different skill levels.
 
 ## Projects
-- [Project 1: Flight Booking Price Prediction](project1/)
+- [Project 1: Flight Booking Price Prediction](Flight Booking Price Prediction.ipynb/)
   - Our objective is to analyze the flight booking dataset obtained from a platform which is used to book flight tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers. Here we apply EDA, statistical methods and Machine learning algorithms in order to get meaningful information from it.
 
-- [Project 2: Classification -Credit Score](project2/)
+- [Project 2: Classification -Credit Score](Classification-Credit Score.ipynb/)
   - Objective:To build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts. Given a person’s credit-related information, build a machine learning model that can classify the credit score.
 
 Feel free to explore each project's directory for more detailed information.
