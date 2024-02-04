@@ -7,8 +7,8 @@ Welcome to the Data Science and Machine Learning Projects repository! This colle
 2. [Projects](#projects)
 3. [Requirements](#requirements)
 4. [Contributing](#contributing)
-5. [Contact](#contact)
-6. [License](#license)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## Introduction
 This repository contains hands-on projects that cover a wide range of data science and machine learning concepts. Whether you're a beginner looking to start your journey or an intermediate practitioner seeking practical exercises, you'll find projects that cater to different skill levels.
@@ -42,6 +42,8 @@ If you'd like to contribute, follow these steps:
 3. Make your contributions.
 4. Submit a pull request.
 
+## License
+This project is open source and available under the Apache License 2.0.
 
 ## Contact:
 
@@ -55,5 +57,3 @@ If you'd like to contribute, follow these steps:
 
 <h5 align="center">© 2024-25 Ritik.</h5>
 
-## License
-This project is open source and available under the Apache License 2.0.
