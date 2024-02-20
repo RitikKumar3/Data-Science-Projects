@@ -19,7 +19,7 @@ This repository contains hands-on projects that cover a wide range of data scien
 
 - [Project 2: Classification -Credit Score](project2/)
   - Objective:To build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts. Given a person’s credit-related information, build a machine learning model that can classify the credit score.
-  - 
+   
 - [Project 3: Capstone Project(Netflix)](project3/)
   - Objective: We will be creating one such Recommendation Engine from the ground-up, where every single user, based on there area of interest and ratings, would be recommended a list of movies that are best suited for them.
    
