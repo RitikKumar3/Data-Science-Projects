@@ -23,6 +23,9 @@ This repository contains hands-on projects that cover a wide range of data scien
 - [Project 3: Capstone Project(Netflix)](project3/)
   - Objective: We will be creating one such Recommendation Engine from the ground-up, where every single user, based on there area of interest and ratings, would be recommended a list of movies that are best suited for them.
    
+- [Project 4: Telecom Customer Churn(Logistic Regression)](project4/)
+  - Objective: You are the data scientist at a telecom company named “Neo” whose customers are churning out to its competitors. You have to analyze the data of your company and find insights and stop your customers from churning out to other telecom companies.
+   
 Feel free to explore each project's directory for more detailed information.
 
 ## Requirements
