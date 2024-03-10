@@ -25,7 +25,10 @@ This repository contains hands-on projects that cover a wide range of data scien
    
 - [Project 4: Telecom Customer Churn(Logistic Regression)](project4/)
   - Objective: You are the data scientist at a telecom company named “Neo” whose customers are churning out to its competitors. You have to analyze the data of your company and find insights and stop your customers from churning out to other telecom companies.
-   
+
+- [Project 5: Bio-Signal Analysis for Smoking](project5/)
+  - Objective: You are working as a data scientist in a global company. Over the years, the company has collected details and gathered a lot of information about individuals. The management wants to build an intelligent system from the data to determine the presence or absence of smoking in a person through bio-signals. Given a person’s information, build a machine learning model that can classify the presence or absence of smoking.
+  
 Feel free to explore each project's directory for more detailed information.
 
 ## Requirements
