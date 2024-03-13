@@ -28,7 +28,10 @@ This repository contains hands-on projects that cover a wide range of data scien
 
 - [Project 5: Bio-Signal Analysis for Smoking](project5/)
   - Objective: You are working as a data scientist in a global company. Over the years, the company has collected details and gathered a lot of information about individuals. The management wants to build an intelligent system from the data to determine the presence or absence of smoking in a person through bio-signals. Given a person’s information, build a machine learning model that can classify the presence or absence of smoking.
-  
+
+- [Project 6: Heart Disease Prediction](project6/)
+  - Objective: In this project, we delve into a dataset encapsulating various health metrics from heart patients, including age, blood pressure, heart rate, and more. Our goal is to develop a predictive model capable of accurately identifying individuals with heart disease. Given the grave implications of missing a positive diagnosis, our primary emphasis is on ensuring that the model identifies all potential patients, making recall for the positive class a crucial metric.
+
 Feel free to explore each project's directory for more detailed information.
 
 ## Requirements
