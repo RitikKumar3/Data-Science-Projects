@@ -49,8 +49,8 @@ This repository contains hands-on projects that cover a wide range of data scien
          - Segment the customers based on their purchasing behavior.
 
 - [Project 8: Wine Quality Prediction](project8/)
-  - Objective: Predict whether a wine is of good or bad quality based on factors such as chemical composition and other relevant attributes. This objective aims to provide an objective measure of wine quality that helps stakeholders differentiate between wines that meet high-quality standards and those that fall below expectations.
-Measure the accuracy and consistency of the model’s predictions across different wines. This metric indicates the reliability of the model in consistently assessing wine quality and can help ensure that wines are classified correctly.
+  - Objective: Predict whether a wine is of good or bad quality based on factors such as chemical composition and other relevant attributes. This objective aims to provide an objective measure of wine quality that helps stakeholders differentiate between wines that meet high-quality standards and those that fall below expectations.Measure the accuracy and consistency of the model’s predictions across different wines. This metric indicates the reliability of the model in consistently assessing wine quality and can help ensure that wines are classified correctly.
+
 
 Feel free to explore each project's directory for more detailed information.
 
