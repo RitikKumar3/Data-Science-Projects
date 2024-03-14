@@ -34,17 +34,19 @@ This repository contains hands-on projects that cover a wide range of data scien
 
 - [Project 7: Capstone Project Walmart & Online Retail](project7/)
  - Objective:
-  - Problem Statement 1: Capstone Project - Walmart
-A retail store that has multiple outlets across the country are facing issues in managing the inventory - to match the demand with respect to supply. You are a data scientist, who has to come up with useful insights using the data and make prediction models to forecast the sales for X number of months/years.
+     - Problem Statement 1: Capstone Project - Walmart
+      A retail store that has multiple outlets across the country are facing issues in managing the inventory - to match the demand with respect to supply. You are 
+      a data scientist, who has to come up with useful insights using the data and make prediction models to forecast the sales for X number of months/years.
 
-     - Using the above data, come up with useful insights that can be used by each of the stores to improve in various areas.
-     - Forecast the sales for each store for the next 12 weeks.
+         - Using the above data, come up with useful insights that can be used by each of the stores to improve in various areas.
+         - Forecast the sales for each store for the next 12 weeks.
       
-  - Problem Statement 2: Capstone Project - OnlineRetail
-An online retail store is trying to understand the various customer purchase patterns for their firm, you are required to give enough evidence based insights to provide the same.
+    - Problem Statement 2: Capstone Project - OnlineRetail
+     An online retail store is trying to understand the various customer purchase patterns for their firm, you are required to give enough evidence based insights 
+     to provide the same.
 
-    - Using the data, find useful insights about the customer purchasing history that can be an added advantage for the online retailer.
-    - Segment the customers based on their purchasing behavior.
+         - Using the data, find useful insights about the customer purchasing history that can be an added advantage for the online retailer.
+         - Segment the customers based on their purchasing behavior.
 
 
 
