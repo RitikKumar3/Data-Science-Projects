@@ -51,6 +51,8 @@ This repository contains hands-on projects that cover a wide range of data scien
 - [Project 8: Wine Quality Prediction](project8/)
   - Objective: Predict whether a wine is of good or bad quality based on factors such as chemical composition and other relevant attributes. This objective aims to provide an objective measure of wine quality that helps stakeholders differentiate between wines that meet high-quality standards and those that fall below expectations.Measure the accuracy and consistency of the model’s predictions across different wines. This metric indicates the reliability of the model in consistently assessing wine quality and can help ensure that wines are classified correctly.
 
+- [Project 9: Super Market Price Prediction](project9/)
+  - Objective: The dataset comprises store attributes like area, items, daily customers, and sales. Machine learning aims to predict sales, segment customers, detect anomalies, and optimize store operations for enhanced profitability.
 
 Feel free to explore each project's directory for more detailed information.
 
