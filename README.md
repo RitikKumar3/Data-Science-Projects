@@ -54,6 +54,9 @@ This repository contains hands-on projects that cover a wide range of data scien
 - [Project 9: Super Market Price Prediction](project9/)
   - Objective: The dataset comprises store attributes like area, items, daily customers, and sales. Machine learning aims to predict sales, segment customers, detect anomalies, and optimize store operations for enhanced profitability.
 
+- [Project 10: Human Resource Analysis](project10/)
+  - Objective: The objective of this study is to employ HR Analytics methodologies to identify and explore people-related trends that are directly linked to attrition. By closely examining the data, we seek to unravel the intricate factors associated with attrition rates, such as employee demographics, performance indicators, job satisfaction levels, and potential predictors of voluntary employee departures.
+
 Feel free to explore each project's directory for more detailed information.
 
 ## Requirements
